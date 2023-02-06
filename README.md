@@ -1,2 +1,7 @@
 # 3-column-preview-card-Front-End-mentor
-Front-End-mentor challenge 
+
+![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
+
+## Welcome! 👋
+
+Front-End-mentor challenge
